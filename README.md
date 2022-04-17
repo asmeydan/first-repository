@@ -1,1 +1,3 @@
-# first
+# FİRST REPOSİTORY
+
+## HESAP MAKİNESİ
