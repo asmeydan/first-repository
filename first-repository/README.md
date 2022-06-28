@@ -1,3 +1,0 @@
-# FIRST REPOSITORY
-
-## Calculator
